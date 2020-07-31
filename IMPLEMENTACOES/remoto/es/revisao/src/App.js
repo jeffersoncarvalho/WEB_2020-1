@@ -8,13 +8,36 @@ import Epoca from './components/dark/Epoca'
 import Personagem from './components/dark/Personagem'*/
 //import IMC from './components/imc/IMC'
 //import Pai from './components/filho_pai/Pai'
-import MinhaClasse from './components/classes/MinhaClasse'
+//import MinhaClasse from './components/classes/MinhaClasse'
+//import CidadeSimples from './components/classes/CidadeSimples'
+//import CidadeEstado from './components/classes/CidadeEstado'
+import ContadorHook from './components/hooks/ContadorHook'
 
 function App() {
   return(
-    <MinhaClasse nome="Jefferson"/>
+    <div className="App">
+       <ContadorHook/>
+    </div>
   ) 
 }
+
+/*function App() {
+  return(
+    <CidadeEstado/>
+  ) 
+}*/
+
+/*function App() {
+  return(
+    <CidadeSimples/>
+  ) 
+}*/
+
+/*function App() {
+  return(
+    <MinhaClasse nome="Jefferson"/>
+  ) 
+}*/
 
 /*function App() {
   return(
