@@ -1,10 +1,10 @@
 import React, { Component } from 'react'
 
-class Questao1 extends Component {
+class Questao2 extends Component {
     render() {
         return (
             <div>
-                Nome: Jefferson <br />
+                Nome: Jefferson com Classes <br />
                 Cidade: Natal <br />
                 Curso: Informática
             </div>
@@ -12,4 +12,4 @@ class Questao1 extends Component {
     }
 }
 
-export default Questao1
+export default Questao2
