@@ -1,0 +1,27 @@
+{
+  "estudantes": [
+    {
+      "nome": "Jefferson",
+      "IRA": 4.5
+    },
+    {
+      "nome": "Carla",
+      "IRA": 8.7
+    }
+  ],
+  "cursos": [],
+  "disciplinas": [
+    {
+      "nome": "Fundamentos de Programação",
+      "curso": "Sistemas de Informação",
+      "capacidade": "35",
+      "id": 1
+    },
+    {
+      "nome": "Cálculo I",
+      "curso": "Matemática",
+      "capacidade": "120",
+      "id": 2
+    }
+  ]
+}

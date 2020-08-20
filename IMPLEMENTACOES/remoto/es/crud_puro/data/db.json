@@ -1,0 +1,47 @@
+{
+  "disciplinas": [
+    {
+      "nome": "Fundamentos de Programação",
+      "curso": "Engenharia de Software",
+      "capacidade": "35",
+      "id": 1
+    },
+    {
+      "nome": "Cálculo I",
+      "curso": "Matemática",
+      "capacidade": "120",
+      "id": 2
+    },
+    {
+      "nome": "Teste",
+      "curso": "Teste",
+      "capacidade": "345",
+      "id": 3
+    },
+    {
+      "nome": "Teste 2",
+      "curso": "Teste 2",
+      "capacidade": 145,
+      "id": 4
+    }
+  ],
+  "estudantes": [
+    {
+      "nome": "Rodrigo",
+      "IRA": 9.7
+    },
+    {
+      "nome": "Carla",
+      "IRA": 8.5
+    },
+    {
+      "nome": "Matheus",
+      "IRA": 5.5
+    },
+    {
+      "nome": "Jean",
+      "IRA": 6.5
+    }
+  ],
+  "cursos": []
+}
