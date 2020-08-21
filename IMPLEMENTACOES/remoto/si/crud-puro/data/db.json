@@ -12,16 +12,10 @@
   "cursos": [],
   "disciplinas": [
     {
-      "nome": "Fundamentos de Programação",
-      "curso": "Sistemas de Informação",
-      "capacidade": "35",
+      "nome": "Teste",
+      "curso": "Teste 2",
+      "capacidade": "23",
       "id": 1
-    },
-    {
-      "nome": "Cálculo I",
-      "curso": "Matemática",
-      "capacidade": "120",
-      "id": 2
     }
   ]
 }
