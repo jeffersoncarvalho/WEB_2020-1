@@ -1,7 +1,0 @@
-.calculator {
-    height: 320px;
-    width: 235px;
-    border-radius: 5px; /* arredondamento na bordas */
-    overflow: hidden; /*https://www.w3schools.com/css/css_overflow.asp*/
-    background-color: red;
-}
