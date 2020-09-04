@@ -7,6 +7,7 @@
 var app = require('../app');
 var debug = require('debug')('crud-express:server');
 var http = require('http');
+console.log('Server is up and running!')
 
 /**
  * Get port from environment and store in Express.

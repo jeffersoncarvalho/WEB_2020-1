@@ -15,7 +15,8 @@ export default class Edit extends Component {
 
     componentDidMount(){
         //console.log("id: " + this.props.match.params.id)
-        axios.get(`http://localhost:3001/disciplinas/${this.props.match.params.id}`)
+        //axios.get(`http://localhost:3001/disciplinas/${this.props.match.params.id}`) //JSON-SERVER
+        axios.get(`http://localhost:3002/disciplinas/retrieve/${this.props.match.params.id}`) //EXPRESS PURO
         .then(
             (res)=>{
                 this.setState({
@@ -53,7 +54,8 @@ export default class Edit extends Component {
             capacidade: parseInt(this.state.capacidade,10)
         }
 
-        axios.put(`http://localhost:3001/disciplinas/${this.props.match.params.id}`,disciplina)
+        //axios.put(`http://localhost:3001/disciplinas/${this.props.match.params.id}`,disciplina) //JSON-SERVER
+        axios.put(`http://localhost:3002/disciplinas/update/${this.props.match.params.id}`,disciplina) //EXPRESS PURO
         .then(
             (res)=>{
                 this.props.history.push('/list')

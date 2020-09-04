@@ -34,11 +34,12 @@ export default class Create extends Component {
             capacidade: parseInt(this.state.capacidade,10)
         }
 
-        axios.post('http://localhost:3001/disciplinas',disciplina)
+        //axios.post('http://localhost:3001/disciplinas',disciplina) //JSON-SERVER
+        axios.post('http://localhost:3002/disciplinas/register',disciplina) //EXPRESS PURO 
         .then(
             (res)=>{
                 console.log('Disciplina salva com sucesso!')
-                console.log(res.data.id)
+                console.log(res.data._id)
             }
         )
         .catch(
