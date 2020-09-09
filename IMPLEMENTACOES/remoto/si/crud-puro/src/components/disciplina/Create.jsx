@@ -38,11 +38,12 @@ export default class Create extends Component {
             capacidade:this.state.capacidade}
         
         //ASSÍNCRONA!
-        axios.post('http://localhost:3001/disciplinas',disciplina)
+        //axios.post('http://localhost:3001/disciplinas',disciplina) //JSON SERVER
+        axios.post('http://localhost:3002/disciplinas/register',disciplina) //EXPRESS
         .then(
             (response)=>{
                 console.log('Disciplina inserida com sucesso!')
-                console.log(response.data.id)
+                console.log(response.data._id)
             }
         )
         .catch(
