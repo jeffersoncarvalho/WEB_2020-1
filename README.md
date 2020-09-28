@@ -17,6 +17,8 @@ Clique <a href="https://forms.gle/RD1sdBEVzr1Uqt47A">AQUI</a> para responder um 
 		</td>
 		<td width="35%">
 			https://youtu.be/XaXW2MPqOR8
+			https://youtu.be/QZZe5-8-8yE
+			https://youtu.be/GuidKHGERN4
 			
 		</td>
 		<td>
@@ -27,7 +29,7 @@ Clique <a href="https://forms.gle/RD1sdBEVzr1Uqt47A">AQUI</a> para responder um 
 		<td>
 			AULA 00
 		</td>
-		<td width="35%">
+		<td >
 			https://youtu.be/ItmfVty5I6s
 		</td>
 		<td>
