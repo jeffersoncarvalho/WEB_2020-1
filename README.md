@@ -10,6 +10,20 @@ Clique <a href="https://forms.gle/RD1sdBEVzr1Uqt47A">AQUI</a> para responder um 
 	<tr>
 		<td colspan="3" align="center"><b>Introdução ao React</b></td>
 	</tr>
+	
+	<tr>
+		<td>
+			AULAS INTRO 
+		</td>
+		<td width="35%">
+			https://youtu.be/XaXW2MPqOR8
+			https://youtu.be/QZZe5-8-8yE
+			https://youtu.be/GuidKHGERN4
+		</td>
+		<td>
+			Introdução ao React, Funcções e Classes.
+		</td>
+	</tr>
 	<tr>
 		<td>
 			AULA 00
