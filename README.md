@@ -6,6 +6,7 @@
 
 Clique <a href="https://forms.gle/RD1sdBEVzr1Uqt47A">AQUI</a> para responder um formulário RÁPIDO de feedback sobre as videoaulas!
 
+
 <table>
 	<tr>
 		<td colspan="3" align="center"><b>Introdução ao React</b></td>
@@ -15,10 +16,13 @@ Clique <a href="https://forms.gle/RD1sdBEVzr1Uqt47A">AQUI</a> para responder um 
 			AULA 00
 		</td>
 		<td >
+			https://youtu.be/XaXW2MPqOR8
+			https://youtu.be/QZZe5-8-8yE
+			https://youtu.be/GuidKHGERN4
 			https://youtu.be/ItmfVty5I6s
 		</td>
 		<td>
-			RESOLUÇÃO DO TRABALHO 2
+			Introdução ao React, Funcções e Classes e RESOLUÇÃO DO TRABALHO 2
 		</td>
 	</tr>
 	<tr>
