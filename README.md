@@ -16,9 +16,9 @@ Clique <a href="https://forms.gle/RD1sdBEVzr1Uqt47A">AQUI</a> para responder um 
 			AULA 00
 		</td>
 		<td >
-			https://youtu.be/XaXW2MPqOR8
-			https://youtu.be/QZZe5-8-8yE
-			https://youtu.be/GuidKHGERN4
+			https://youtu.be/XaXW2MPqOR8 <br/>
+			https://youtu.be/QZZe5-8-8yE <br />
+			https://youtu.be/GuidKHGERN4 <br />
 			https://youtu.be/ItmfVty5I6s
 		</td>
 		<td>
